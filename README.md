@@ -25,14 +25,12 @@ lek o nazwie Zoloft zawiera Sertralinum (Sertralina) który jest opisany jako re
 	* LactMed is updated monthly.
 	* There is no charge for leasing NLM data
 	* Those interested in obtaining NLM data directly from an NLM licensee do not enter into a license agreement with the NLM. Rather, contact the licensee directly.
-	* Wymagana licencja:
-		How to Lease NLM leases CCRIS, ChemIDplus Subset, GENE-TOX, HSDB® Subset, LactMed® Subset and TOXLINE® Subset to U.S. and non-US individuals or organizations.
-		To request a license, complete and submit the License Request Form after reading and accepting the electronic License Agreement for NLM Data.
-	 
-   * Alternatywnie możemy pobierać dane:
-	   Alternative to Leasing
-	   CCRIS, GENE-TOX, HSDB Subset, LactMed Subset, ChemIDplus Subset, and TOXLINE Subset records may be downloaded from the Toxicology Data Network (TOXNET).
+	* Toxnet RESTful API
+	  ```
+	   The TOXNET Web Service API is free of charge. Neither registration or licensing is required.
+	   If you build an interface using the TOXNET Web Service API, please indicate that the information is from TOXNET for the National Library of Medicine
+	  ```
+	  [warunki korzystania](https://toxnet.nlm.nih.gov/toxnetapi/TOXNETWebService.html)
 3. Źródła
-[Licencja](https://www.nlm.nih.gov/databases/toxnet.html)
-[FAQ](https://toxnet.nlm.nih.gov/newtoxnet/faq.html)
-
+	[Sample reqeuest](https://toxnet.nlm.nih.gov/toxnetapi/search_chemical.html)
+	[FAQ](https://toxnet.nlm.nih.gov/newtoxnet/faq.html)
